@@ -1,8 +1,8 @@
-name = "newsnow"
-pages_build_output_dir = "dist/output/public"
-compatibility_date = "2024-10-03"
+名称=“新闻雪”
+page_build_output_dir =“分配/输出/公共”
+兼容性_日期=“ 2024  -10  -03 ”
 
-[[d1_databases]]
-binding = "NEWSNOW_DB"
-database_name = "newsnow-db"
-database_id = "ec51486c-6716-4355-9126-ea345c6d2e2f"
+[[d1_数据库]]
+绑定=“NEWSNOW_DB”
+数据库名称=“newsnow_db”
+数据库ID =“a 86311 b 8  -6 f 5 b -4 def -8 f 6 bf 1 af 7 f 65 f 4 fc”
